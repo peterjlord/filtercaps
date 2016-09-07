@@ -1,0 +1,6 @@
+name: Day 8 Custom Filter
+type: module
+description: Sends welcome email to registered users
+package: Custom
+core: 8.x
+
